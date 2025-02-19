@@ -10,7 +10,7 @@
         {{ $t("about.intro.part1") }}
       </p>
       <p>
-        {{ $t("about.intro.part2") }}
+        {{ $t("") }}
       </p>
       <p>
         {{ $t("about.intro.part3") }}
